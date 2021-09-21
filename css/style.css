@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap');
+
+.alineacion{
+    margin-left: 500px;
+}
+.logoali{
+    margin-left: 129px;
+}
+.itemmenu{
+    padding-left: 88px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    color: black;
+    margin-top: 10px;
+}
+.itemboton{
+    padding-left: 80px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-top: 17px;
+}
+.botonpropio{
+    width: 224px;
+    height: 47px;
+    padding: 10px 10px 10px 10px;
+    background-color: #47aee1;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.imagenslider{
+    margin-top: 140px;
+    height: 450px;
+}
+
+.tituloslider {
+    
+    margin-top: 300px;
+    font-family: Raleway;
+    font-size: 45px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    text-align: left;
+    color: #262222;
+  }
+
+  .textoazul {
+    font-weight: bold;
+    color: #47aee1;
+  }
+
+.parrafo{
+    margin-top: 20px;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.48;
+    letter-spacing: normal;
+    text-align: left;
+    color: #262222;
+    margin-bottom: 30px;
+}
+.botonslider{
+    border-radius: 25px;
+    margin-top: 55px!important;
+    padding: 12px 56.6px 12.8px 57px;
+    color: white;
+    background-color: #47aee1;
+}
